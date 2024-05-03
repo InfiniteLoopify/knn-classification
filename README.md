@@ -78,6 +78,7 @@ K Nearest Neighbor Classification for documents using tf-idf and cosine similari
 
 * [![Python][Python-shield]][Python-url]
 * [![Tkinter][Tkinter-shield]][Tkinter-url]
+* [![Numpy][Numpy-shield]][Numpy-url]
 * [![Nltk][Nltk-shield]][Nltk-url]
 
 
